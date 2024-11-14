@@ -17,8 +17,6 @@ int inverterNumero(int numero) {
 
 int main() {
     int numero, numeroInvertido;
-    float NumeroReal;
-    int a;
     
     printf("Digite um número de três dígitos:\n");
     scanf("%d", &numero);
