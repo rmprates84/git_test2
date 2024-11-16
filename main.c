@@ -18,7 +18,7 @@ int inverterNumero(int numero) {
 int main() {
     int numero, numeroInvertido;
     
-    printf("Digite um número de tres digitos:\n");
+    printf("Digite um numero de tres digitos:\n");
     scanf("%d", &numero);
 
     if (numero >= 100 && numero <= 999) {
