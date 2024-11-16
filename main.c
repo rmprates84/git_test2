@@ -18,14 +18,14 @@ int inverterNumero(int numero) {
 int main() {
     int numero, numeroInvertido;
     
-    printf("Digite um número de três dígitos:\n");
+    printf("Digite um número de tres digitos:\n");
     scanf("%d", &numero);
 
     if (numero >= 100 && numero <= 999) {
         numeroInvertido = inverterNumero(numero);
-        printf("O número invertido é: %d\n", numeroInvertido);
+        printf("O numero invertido e: %d\n", numeroInvertido);
     } else {
-        printf("Número inválido. Digite um número entre 100 e 999.\n");
+        printf("Numero invalido. Digite um número entre 100 e 999.\n");
     }
     return 0;
 }
