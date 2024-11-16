@@ -1,1 +1,1 @@
-Arquivo de teste.
+Programa que ler um numero inteiro positivo de três dígitos (de 100 a 999). Gere outro numero formado pelos dígitos invertidos do numero lido. Exemplo: número lido: 123 e o resultado invertido deve ser 321.
